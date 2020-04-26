@@ -9,4 +9,4 @@ work-osm
 output
 download
 files-figaro.zip
-*.dbf
+osm*.dbf
