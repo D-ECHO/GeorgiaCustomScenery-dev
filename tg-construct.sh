@@ -4,6 +4,15 @@ then
 elif [ $1 -eq 2 ]
 then
 	geo='--min-lon=40.0 --max-lon=46.75 --min-lat=41.0 --max-lat=43.5'	#complete Georgia
+elif [ $1 -eq 3 ]
+then
+	geo='--min-lon=46.0 --max-lon=46.25 --min-lat=41.5 --max-lat=41.75'	#Tsnori (UGGN)
+elif [ $1 -eq 4 ]
+then
+	geo='--min-lon=41.5 --max-lon=41.75 --min-lat=41.5 --max-lat=41.75'	#Batumi (UGSB)
+elif [ $1 -eq 5 ]
+then
+	geo='--min-lon=46.25 --max-lon=46.5 --min-lat=41.5 --max-lat=41.75'	#Belokany (UB16)
 fi
 echo $1
 echo $geo

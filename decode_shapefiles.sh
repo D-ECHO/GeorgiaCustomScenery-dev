@@ -40,7 +40,7 @@ ogr-decode --max-segment 500 --area-type CropGrass work/CropGrass data/shapefile
 ogr-decode --max-segment 500 --area-type Grassland work/Grassland data/shapefiles/vmap_grassland/
 ogr-decode --max-segment 500 --area-type Scrub work/Scrub data/shapefiles/vmap_ground/
 ogr-decode --max-segment 500 --area-type Industrial work/Industrial data/shapefiles/vmap_industry_extraction/
-ogr-decode --max-segment 500 --area-type Lake work/Lake data/shapefiles/vmap_inland_water/
+#ogr-decode --max-segment 500 --area-type Lake work/Lake data/shapefiles/vmap_inland_water/
 ogr-decode --max-segment 500 --area-type Glacier work/Glacier data/shapefiles/vmap_landice/
 ogr-decode --max-segment 500 --area-type HerbTundra work/HerbTundra data/shapefiles/vmap_tundra/
 ogr-decode --max-segment 500 --area-type Swamp work/Swamp data/shapefiles/vmap_vegetation_swamp/

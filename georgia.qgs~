@@ -38,7 +38,7 @@
     <layer-tree-layer expanded="1" source="./data/shapefiles/osm_scree/osmscree.shp" id="osmscree_e4937838_3ada_4eff_8e68_d82c183121e6" name="osmscree" providerKey="ogr" checked="Qt::Checked">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" source="./data/shapefiles/osm_road/osmroadlayer.shp" id="osmroadlayer_0bd84e64_4fb0_4930_824e_9aff34fda665" name="osmroadlayer" providerKey="ogr" checked="Qt::Checked">
+    <layer-tree-layer expanded="1" source="./data/shapefiles/osm_road/osmroadlayer.shp" id="osmroadlayer_0bd84e64_4fb0_4930_824e_9aff34fda665" name="osmroadlayer" providerKey="ogr" checked="Qt::Unchecked">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" source="./data/shapefiles/osm_residential/osmlanduseresidential.shp" id="osmlanduseresidential_59a86511_dad6_4888_be13_924004316913" name="osmlanduseresidential" providerKey="ogr" checked="Qt::Checked">
@@ -47,7 +47,7 @@
     <layer-tree-layer expanded="1" source="./data/shapefiles/osm_reservoir/osmlandusereservoir.shp" id="osmlandusereservoir_0943d300_1d28_4799_b0b1_68a592f3a3fc" name="osmlandusereservoir" providerKey="ogr" checked="Qt::Checked">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" source="./data/shapefiles/osm_railway/osmrailways.shp" id="osmrailways_3febf2d1_aef7_4384_bd39_1aa2f7671477" name="osmrailways" providerKey="ogr" checked="Qt::Checked">
+    <layer-tree-layer expanded="1" source="./data/shapefiles/osm_railway/osmrailways.shp" id="osmrailways_3febf2d1_aef7_4384_bd39_1aa2f7671477" name="osmrailways" providerKey="ogr" checked="Qt::Unchecked">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" source="./data/shapefiles/osm_quarry/osmlandusequarry.shp" id="osmlandusequarry_c0438cd3_b00f_4ed1_87ef_dd7c1c88a19f" name="osmlandusequarry" providerKey="ogr" checked="Qt::Checked">
@@ -216,10 +216,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>degrees</units>
     <extent>
-      <xmin>44.87761629255469131</xmin>
-      <ymin>41.70233601794726042</ymin>
-      <xmax>44.88872599359375215</xmax>
-      <ymax>41.70657746308788205</ymax>
+      <xmin>44.87162058088281924</xmin>
+      <ymin>41.69970389644023356</ymin>
+      <xmax>44.89383998296094092</xmax>
+      <ymax>41.70818678672147684</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -270,9 +270,9 @@
         <legendlayerfile isInOverview="0" layerid="osmscree_e4937838_3ada_4eff_8e68_d82c183121e6" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer showFeatureCount="0" name="osmroadlayer" open="true" drawingOrder="-1" checked="Qt::Checked">
+    <legendlayer showFeatureCount="0" name="osmroadlayer" open="true" drawingOrder="-1" checked="Qt::Unchecked">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="osmroadlayer_0bd84e64_4fb0_4930_824e_9aff34fda665" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="osmroadlayer_0bd84e64_4fb0_4930_824e_9aff34fda665" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer showFeatureCount="0" name="osmlanduseresidential" open="true" drawingOrder="-1" checked="Qt::Checked">
@@ -285,9 +285,9 @@
         <legendlayerfile isInOverview="0" layerid="osmlandusereservoir_0943d300_1d28_4799_b0b1_68a592f3a3fc" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer showFeatureCount="0" name="osmrailways" open="true" drawingOrder="-1" checked="Qt::Checked">
+    <legendlayer showFeatureCount="0" name="osmrailways" open="true" drawingOrder="-1" checked="Qt::Unchecked">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="osmrailways_3febf2d1_aef7_4384_bd39_1aa2f7671477" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="osmrailways_3febf2d1_aef7_4384_bd39_1aa2f7671477" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer showFeatureCount="0" name="osmlandusequarry" open="true" drawingOrder="-1" checked="Qt::Checked">
