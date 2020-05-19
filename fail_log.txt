@@ -1,0 +1,567 @@
+ 4241.96 [ALRT]:general    3629331 - Construct in e040n40/e041n42 tile 278 of 567 using thread 139726207477504
+ 4241.97 [ALRT]:general    3629330 - Generate Custom Objects
+ 4242.32 [ALRT]:general    3629331 - Lookup Faces Per Node (again)
+ 4242.34 [ALRT]:general    3629331 - Average Edge Node Elevations
+ 4242.34 [ALRT]:general    3629331 - Calculate Face Normals
+ 4242.35 [ALRT]:general    3629331 - Calculate Point Normals
+ 4242.38 [ALRT]:general    3629331 - Calculate Texture Coordinates
+ 4242.57 [ALRT]:general    3629331 - Generate BTG File
+ 4243.99 [ALRT]:general    3645712 - Construct in e040n40/e042n42 tile 279 of 567 using thread 139726199084800
+ 4244.02 [ALRT]:general    3711241 - Generate Custom Objects
+ 4244.32 [ALRT]:general    3645712 - Lookup Faces Per Node (again)
+ 4244.34 [ALRT]:general    3645712 - Average Edge Node Elevations
+ 4244.34 [ALRT]:general    3645712 - Calculate Face Normals
+ 4244.36 [ALRT]:general    3645712 - Calculate Point Normals
+ 4244.40 [ALRT]:general    3645712 - Calculate Texture Coordinates
+ 4244.68 [ALRT]:general    3645712 - Generate BTG File
+ 4245.39 [ALRT]:general    3629331 - Generate Custom Objects
+ 4245.40 [ALRT]:general    3645713 - Construct in e040n40/e042n42 tile 280 of 567 using thread 139726190692096
+ 4245.71 [ALRT]:general    3645713 - Lookup Faces Per Node (again)
+ 4245.73 [ALRT]:general    3645713 - Average Edge Node Elevations
+ 4245.73 [ALRT]:general    3645713 - Calculate Face Normals
+ 4245.75 [ALRT]:general    3645713 - Calculate Point Normals
+ 4245.78 [ALRT]:general    3645713 - Calculate Texture Coordinates
+ 4246.03 [ALRT]:general    3645713 - Generate BTG File
+ 4247.19 [ALRT]:general    3645714 - Construct in e040n40/e042n42 tile 281 of 567 using thread 139726207477504
+ 4247.21 [ALRT]:general    3645712 - Generate Custom Objects
+ 4247.57 [ALRT]:general    3645714 - Lookup Faces Per Node (again)
+ 4247.60 [ALRT]:general    3645714 - Average Edge Node Elevations
+ 4247.60 [ALRT]:general    3645714 - Calculate Face Normals
+ 4247.62 [ALRT]:general    3645714 - Calculate Point Normals
+ 4247.68 [ALRT]:general    3645714 - Calculate Texture Coordinates
+ 4248.05 [ALRT]:general    3645714 - Generate BTG File
+ 4248.93 [ALRT]:general    3645713 - Generate Custom Objects
+ 4248.94 [ALRT]:general    3645715 - Construct in e040n40/e042n42 tile 282 of 567 using thread 139726199084800
+ 4248.99 [ALRT]:general    3662096 - Construct in e040n40/e043n42 tile 283 of 567 using thread 139726190692096
+ 4249.31 [ALRT]:general    3662096 - Lookup Faces Per Node (again)
+ 4249.33 [ALRT]:general    3662096 - Average Edge Node Elevations
+ 4249.33 [ALRT]:general    3662096 - Calculate Face Normals
+ 4249.33 [ALRT]:general    3645715 - Lookup Faces Per Node (again)
+ 4249.35 [ALRT]:general    3662096 - Calculate Point Normals
+ 4249.36 [ALRT]:general    3645715 - Average Edge Node Elevations
+ 4249.36 [ALRT]:general    3645715 - Calculate Face Normals
+ 4249.38 [ALRT]:general    3645715 - Calculate Point Normals
+ 4249.39 [ALRT]:general    3662096 - Calculate Texture Coordinates
+ 4249.43 [ALRT]:general    3645715 - Calculate Texture Coordinates
+ 4249.72 [ALRT]:general    3662096 - Generate BTG File
+ 4249.91 [ALRT]:general    3645715 - Generate BTG File
+ 4251.07 [ALRT]:general    3645714 - Generate Custom Objects
+ 4252.49 [ALRT]:general    3662096 - Generate Custom Objects
+ 4254.35 [ALRT]:general    3662097 - Construct in e040n40/e043n42 tile 284 of 567 using thread 139726190692096
+ 4254.39 [ALRT]:general    3662098 - Construct in e040n40/e043n42 tile 285 of 567 using thread 139726207477504
+ 4254.39 [ALRT]:general    3645715 - Generate Custom Objects
+ 4254.47 [ALRT]:general    3662099 - Construct in e040n40/e043n42 tile 286 of 567 using thread 139726199084800
+ 4254.63 [ALRT]:general    3662098 - Lookup Faces Per Node (again)
+ 4254.65 [ALRT]:general    3662098 - Average Edge Node Elevations
+ 4254.65 [ALRT]:general    3662098 - Calculate Face Normals
+ 4254.66 [ALRT]:general    3662098 - Calculate Point Normals
+ 4254.69 [ALRT]:general    3662098 - Calculate Texture Coordinates
+ 4254.78 [ALRT]:general    3662097 - Lookup Faces Per Node (again)
+ 4254.81 [ALRT]:general    3662097 - Average Edge Node Elevations
+ 4254.81 [ALRT]:general    3662097 - Calculate Face Normals
+ 4254.83 [ALRT]:general    3662097 - Calculate Point Normals
+ 4254.85 [ALRT]:general    3662098 - Generate BTG File
+ 4254.88 [ALRT]:general    3662097 - Calculate Texture Coordinates
+ 4254.89 [ALRT]:general    3662099 - Lookup Faces Per Node (again)
+ 4254.92 [ALRT]:general    3662099 - Average Edge Node Elevations
+ 4254.92 [ALRT]:general    3662099 - Calculate Face Normals
+ 4254.94 [ALRT]:general    3662099 - Calculate Point Normals
+ 4255.01 [ALRT]:general    3662099 - Calculate Texture Coordinates
+ 4255.35 [ALRT]:general    3662097 - Generate BTG File
+ 4255.46 [ALRT]:general    3662099 - Generate BTG File
+ 4256.20 [ALRT]:general    3662098 - Generate Custom Objects
+ 4258.05 [ALRT]:general    3662097 - Generate Custom Objects
+ 4259.91 [ALRT]:general    3678480 - Construct in e040n40/e044n42 tile 287 of 567 using thread 139726207477504
+ 4259.94 [ALRT]:general    3662099 - Generate Custom Objects
+ 4259.95 [ALRT]:general    3678481 - Construct in e040n40/e044n42 tile 288 of 567 using thread 139726190692096
+ 4260.00 [ALRT]:general    3678482 - Construct in e040n40/e044n42 tile 289 of 567 using thread 139726199084800
+ 4260.20 [ALRT]:general    3678481 - Lookup Faces Per Node (again)
+ 4260.22 [ALRT]:general    3678481 - Average Edge Node Elevations
+ 4260.22 [ALRT]:general    3678481 - Calculate Face Normals
+ 4260.23 [ALRT]:general    3678481 - Calculate Point Normals
+ 4260.26 [ALRT]:general    3678481 - Calculate Texture Coordinates
+ 4260.29 [ALRT]:general    3678480 - Lookup Faces Per Node (again)
+ 4260.32 [ALRT]:general    3678480 - Average Edge Node Elevations
+ 4260.32 [ALRT]:general    3678480 - Calculate Face Normals
+ 4260.34 [ALRT]:general    3678480 - Calculate Point Normals
+ 4260.35 [ALRT]:general    3678482 - Lookup Faces Per Node (again)
+ 4260.37 [ALRT]:general    3678482 - Average Edge Node Elevations
+ 4260.37 [ALRT]:general    3678482 - Calculate Face Normals
+ 4260.39 [ALRT]:general    3678482 - Calculate Point Normals
+ 4260.39 [ALRT]:general    3678480 - Calculate Texture Coordinates
+ 4260.40 [ALRT]:general    3678481 - Generate BTG File
+ 4260.42 [ALRT]:general    3678482 - Calculate Texture Coordinates
+ 4260.84 [ALRT]:general    3678482 - Generate BTG File
+ 4260.84 [ALRT]:general    3678480 - Generate BTG File
+ 4261.64 [ALRT]:general    3678481 - Generate Custom Objects
+ 4263.22 [ALRT]:general    3678480 - Generate Custom Objects
+ 4264.67 [ALRT]:general    3678483 - Construct in e040n40/e044n42 tile 290 of 567 using thread 139726190692096
+ 4264.69 [ALRT]:general    3694864 - Construct in e040n40/e045n42 tile 291 of 567 using thread 139726207477504
+ 4264.69 [ALRT]:general    3678482 - Generate Custom Objects
+ 4264.75 [ALRT]:general    3694865 - Construct in e040n40/e045n42 tile 292 of 567 using thread 139726199084800
+ 4265.08 [ALRT]:general    3678483 - Lookup Faces Per Node (again)
+ 4265.11 [ALRT]:general    3678483 - Average Edge Node Elevations
+ 4265.11 [ALRT]:general    3678483 - Calculate Face Normals
+ 4265.12 [ALRT]:general    3678483 - Calculate Point Normals
+ 4265.17 [ALRT]:general    3678483 - Calculate Texture Coordinates
+ 4265.19 [ALRT]:general    3694864 - Lookup Faces Per Node (again)
+ 4265.23 [ALRT]:general    3694864 - Average Edge Node Elevations
+ 4265.23 [ALRT]:general    3694864 - Calculate Face Normals
+ 4265.27 [ALRT]:general    3694864 - Calculate Point Normals
+ 4265.29 [ALRT]:general    3694865 - Lookup Faces Per Node (again)
+ 4265.32 [ALRT]:general    3694865 - Average Edge Node Elevations
+ 4265.32 [ALRT]:general    3694865 - Calculate Face Normals
+ 4265.32 [ALRT]:general    3694864 - Calculate Texture Coordinates
+ 4265.35 [ALRT]:general    3694865 - Calculate Point Normals
+ 4265.42 [ALRT]:general    3694865 - Calculate Texture Coordinates
+ 4265.47 [ALRT]:general    3678483 - Generate BTG File
+ 4266.19 [ALRT]:general    3694864 - Generate BTG File
+ 4266.30 [ALRT]:general    3694865 - Generate BTG File
+ 4267.66 [ALRT]:general    3678483 - Generate Custom Objects
+ 4270.17 [ALRT]:general    3694864 - Generate Custom Objects
+ 4272.49 [ALRT]:general    3694866 - Construct in e040n40/e045n42 tile 293 of 567 using thread 139726190692096
+ 4272.52 [ALRT]:general    3694865 - Generate Custom Objects
+ 4272.54 [ALRT]:general    3694867 - Construct in e040n40/e045n42 tile 294 of 567 using thread 139726207477504
+ 4272.61 [ALRT]:general    3711248 - Construct in e040n40/e046n42 tile 295 of 567 using thread 139726199084800
+ 4272.78 [ALRT]:general    3711248 - Lookup Faces Per Node (again)
+ 4272.80 [ALRT]:general    3711248 - Average Edge Node Elevations
+ 4272.80 [ALRT]:general    3711248 - Calculate Face Normals
+ 4272.81 [ALRT]:general    3711248 - Calculate Point Normals
+ 4272.82 [ALRT]:general    3694867 - Lookup Faces Per Node (again)
+ 4272.83 [ALRT]:general    3711248 - Calculate Texture Coordinates
+ 4272.85 [ALRT]:general    3694867 - Average Edge Node Elevations
+ 4272.85 [ALRT]:general    3694867 - Calculate Face Normals
+ 4272.86 [ALRT]:general    3694867 - Calculate Point Normals
+ 4272.90 [ALRT]:general    3694867 - Calculate Texture Coordinates
+ 4272.97 [ALRT]:general    3711248 - Generate BTG File
+ 4273.07 [ALRT]:general    3694867 - Generate BTG File
+ 4273.10 [ALRT]:general    3694866 - Lookup Faces Per Node (again)
+ 4273.13 [ALRT]:general    3694866 - Average Edge Node Elevations
+ 4273.13 [ALRT]:general    3694866 - Calculate Face Normals
+ 4273.16 [ALRT]:general    3694866 - Calculate Point Normals
+ 4273.23 [ALRT]:general    3694866 - Calculate Texture Coordinates
+ 4273.71 [ALRT]:general    3694866 - Generate BTG File
+ 4274.33 [ALRT]:general    3711248 - Generate Custom Objects
+ 4275.52 [ALRT]:general    3711249 - Construct in e040n40/e046n42 tile 296 of 567 using thread 139726199084800
+ 4275.52 [ALRT]:general    3694867 - Generate Custom Objects
+ 4275.77 [ALRT]:general    3711249 - Lookup Faces Per Node (again)
+ 4275.79 [ALRT]:general    3711249 - Average Edge Node Elevations
+ 4275.79 [ALRT]:general    3711249 - Calculate Face Normals
+ 4275.81 [ALRT]:general    3711249 - Calculate Point Normals
+ 4275.85 [ALRT]:general    3711249 - Calculate Texture Coordinates
+ 4276.02 [ALRT]:general    3711249 - Generate BTG File
+ 4277.85 [ALRT]:general    3711250 - Construct in e040n40/e046n42 tile 297 of 567 using thread 139726207477504
+ 4277.90 [ALRT]:general    3694866 - Generate Custom Objects
+ 4278.06 [ALRT]:general    3711250 - Lookup Faces Per Node (again)
+ 4278.08 [ALRT]:general    3711250 - Average Edge Node Elevations
+ 4278.08 [ALRT]:general    3711250 - Calculate Face Normals
+ 4278.10 [ALRT]:general    3711250 - Calculate Point Normals
+ 4278.13 [ALRT]:general    3711250 - Calculate Texture Coordinates
+ 4278.27 [ALRT]:general    3711250 - Generate BTG File
+ 4279.49 [ALRT]:general    3711249 - Generate Custom Objects
+ 4279.52 [ALRT]:general    3612952 - Construct in e040n40/e040n42 tile 298 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3612953 - Construct in e040n40/e040n42 tile 299 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3612954 - Construct in e040n40/e040n42 tile 300 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3612955 - Construct in e040n40/e040n42 tile 301 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3629336 - Construct in e040n40/e041n42 tile 302 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3629337 - Construct in e040n40/e041n42 tile 303 of 567 using thread 139726190692096
+ 4279.52 [ALRT]:general    3629338 - Construct in e040n40/e041n42 tile 304 of 567 using thread 139726190692096
+ 4279.98 [ALRT]:general    3629338 - Lookup Faces Per Node (again)
+ 4280.01 [ALRT]:general    3629338 - Average Edge Node Elevations
+ 4280.01 [ALRT]:general    3629338 - Calculate Face Normals
+ 4280.02 [ALRT]:general    3629338 - Calculate Point Normals
+ 4280.06 [ALRT]:general    3629338 - Calculate Texture Coordinates
+ 4280.32 [ALRT]:general    3629338 - Generate BTG File
+ 4280.80 [ALRT]:general    3711250 - Generate Custom Objects
+ 4280.84 [ALRT]:general    3629339 - Construct in e040n40/e041n42 tile 305 of 567 using thread 139726207477504
+ 4280.85 [ALRT]:general    3645720 - Construct in e040n40/e042n42 tile 306 of 567 using thread 139726199084800
+ 4281.13 [ALRT]:general    3629339 - Lookup Faces Per Node (again)
+ 4281.16 [ALRT]:general    3629339 - Average Edge Node Elevations
+ 4281.16 [ALRT]:general    3629339 - Calculate Face Normals
+ 4281.17 [ALRT]:general    3645720 - Lookup Faces Per Node (again)
+ 4281.18 [ALRT]:general    3629339 - Calculate Point Normals
+ 4281.20 [ALRT]:general    3645720 - Average Edge Node Elevations
+ 4281.20 [ALRT]:general    3645720 - Calculate Face Normals
+ 4281.22 [ALRT]:general    3645720 - Calculate Point Normals
+ 4281.22 [ALRT]:general    3629339 - Calculate Texture Coordinates
+ 4281.26 [ALRT]:general    3645720 - Calculate Texture Coordinates
+ 4281.62 [ALRT]:general    3629339 - Generate BTG File
+ 4281.73 [ALRT]:general    3645720 - Generate BTG File
+ 4282.73 [ALRT]:general    3629338 - Generate Custom Objects
+ 4283.68 [ALRT]:general    3629339 - Generate Custom Objects
+ 4285.40 [ALRT]:general    3645720 - Generate Custom Objects
+ 4285.40 [ALRT]:general    3645721 - Construct in e040n40/e042n42 tile 307 of 567 using thread 139726207477504
+ 4285.40 [ALRT]:general    3645722 - Construct in e040n40/e042n42 tile 308 of 567 using thread 139726190692096
+ 4285.46 [ALRT]:general    3645723 - Construct in e040n40/e042n42 tile 309 of 567 using thread 139726199084800
+ 4285.67 [ALRT]:general    3645723 - Lookup Faces Per Node (again)
+ 4285.69 [ALRT]:general    3645723 - Average Edge Node Elevations
+ 4285.69 [ALRT]:general    3645723 - Calculate Face Normals
+ 4285.70 [ALRT]:general    3645721 - Lookup Faces Per Node (again)
+ 4285.70 [ALRT]:general    3645723 - Calculate Point Normals
+ 4285.71 [ALRT]:general    3645722 - Lookup Faces Per Node (again)
+ 4285.73 [ALRT]:general    3645721 - Average Edge Node Elevations
+ 4285.73 [ALRT]:general    3645721 - Calculate Face Normals
+ 4285.73 [ALRT]:general    3645722 - Average Edge Node Elevations
+ 4285.73 [ALRT]:general    3645722 - Calculate Face Normals
+ 4285.73 [ALRT]:general    3645723 - Calculate Texture Coordinates
+ 4285.74 [ALRT]:general    3645721 - Calculate Point Normals
+ 4285.75 [ALRT]:general    3645722 - Calculate Point Normals
+ 4285.78 [ALRT]:general    3645721 - Calculate Texture Coordinates
+ 4285.79 [ALRT]:general    3645722 - Calculate Texture Coordinates
+ 4285.92 [ALRT]:general    3645723 - Generate BTG File
+ 4286.18 [ALRT]:general    3645721 - Generate BTG File
+ 4286.20 [ALRT]:general    3645722 - Generate BTG File
+ 4287.17 [ALRT]:general    3645723 - Generate Custom Objects
+ 4288.60 [ALRT]:general    3645721 - Generate Custom Objects
+ 4289.97 [ALRT]:general    3662104 - Construct in e040n40/e043n42 tile 310 of 567 using thread 139726199084800
+ 4289.98 [ALRT]:general    3645722 - Generate Custom Objects
+ 4289.98 [ALRT]:general    3662105 - Construct in e040n40/e043n42 tile 311 of 567 using thread 139726207477504
+ 4290.03 [ALRT]:general    3662106 - Construct in e040n40/e043n42 tile 312 of 567 using thread 139726190692096
+ 4290.20 [ALRT]:general    3662104 - Lookup Faces Per Node (again)
+ 4290.22 [ALRT]:general    3662104 - Average Edge Node Elevations
+ 4290.22 [ALRT]:general    3662104 - Calculate Face Normals
+ 4290.23 [ALRT]:general    3662104 - Calculate Point Normals
+ 4290.26 [ALRT]:general    3662104 - Calculate Texture Coordinates
+ 4290.27 [ALRT]:general    3662106 - Lookup Faces Per Node (again)
+ 4290.28 [ALRT]:general    3662105 - Lookup Faces Per Node (again)
+ 4290.28 [ALRT]:general    3662106 - Average Edge Node Elevations
+ 4290.28 [ALRT]:general    3662106 - Calculate Face Normals
+ 4290.30 [ALRT]:general    3662105 - Average Edge Node Elevations
+ 4290.30 [ALRT]:general    3662106 - Calculate Point Normals
+ 4290.30 [ALRT]:general    3662105 - Calculate Face Normals
+ 4290.31 [ALRT]:general    3662105 - Calculate Point Normals
+ 4290.33 [ALRT]:general    3662106 - Calculate Texture Coordinates
+ 4290.34 [ALRT]:general    3662105 - Calculate Texture Coordinates
+ 4290.41 [ALRT]:general    3662104 - Generate BTG File
+ 4290.49 [ALRT]:general    3662106 - Generate BTG File
+ 4290.55 [ALRT]:general    3662105 - Generate BTG File
+ 4291.94 [ALRT]:general    3662104 - Generate Custom Objects
+ 4292.57 [ALRT]:general    3662106 - Generate Custom Objects
+ 4293.29 [ALRT]:general    3662105 - Generate Custom Objects
+ 4293.29 [ALRT]:general    3662107 - Construct in e040n40/e043n42 tile 313 of 567 using thread 139726190692096
+ 4293.30 [ALRT]:general    3678488 - Construct in e040n40/e044n42 tile 314 of 567 using thread 139726199084800
+ 4293.33 [ALRT]:general    3678489 - Construct in e040n40/e044n42 tile 315 of 567 using thread 139726207477504
+ 4293.57 [ALRT]:general    3678488 - Lookup Faces Per Node (again)
+ 4293.57 [ALRT]:general    3678489 - Lookup Faces Per Node (again)
+ 4293.59 [ALRT]:general    3678488 - Average Edge Node Elevations
+ 4293.59 [ALRT]:general    3678488 - Calculate Face Normals
+ 4293.59 [ALRT]:general    3678489 - Average Edge Node Elevations
+ 4293.59 [ALRT]:general    3678489 - Calculate Face Normals
+ 4293.60 [ALRT]:general    3678488 - Calculate Point Normals
+ 4293.61 [ALRT]:general    3678489 - Calculate Point Normals
+ 4293.63 [ALRT]:general    3662107 - Lookup Faces Per Node (again)
+ 4293.64 [ALRT]:general    3678488 - Calculate Texture Coordinates
+ 4293.64 [ALRT]:general    3678489 - Calculate Texture Coordinates
+ 4293.65 [ALRT]:general    3662107 - Average Edge Node Elevations
+ 4293.65 [ALRT]:general    3662107 - Calculate Face Normals
+ 4293.67 [ALRT]:general    3662107 - Calculate Point Normals
+ 4293.71 [ALRT]:general    3662107 - Calculate Texture Coordinates
+ 4294.00 [ALRT]:general    3678488 - Generate BTG File
+ 4294.06 [ALRT]:general    3678489 - Generate BTG File
+ 4294.12 [ALRT]:general    3662107 - Generate BTG File
+ 4295.28 [ALRT]:general    3678488 - Generate Custom Objects
+ 4296.13 [ALRT]:general    3678489 - Generate Custom Objects
+ 4296.99 [ALRT]:general    3678490 - Construct in e040n40/e044n42 tile 316 of 567 using thread 139726207477504
+ 4296.99 [ALRT]:general    3678491 - Construct in e040n40/e044n42 tile 317 of 567 using thread 139726199084800
+ 4297.01 [ALRT]:general    3662107 - Generate Custom Objects
+ 4297.06 [ALRT]:general    3694872 - Construct in e040n40/e045n42 tile 318 of 567 using thread 139726190692096
+ 4297.38 [ALRT]:general    3678490 - Lookup Faces Per Node (again)
+ 4297.41 [ALRT]:general    3678490 - Average Edge Node Elevations
+ 4297.41 [ALRT]:general    3678490 - Calculate Face Normals
+ 4297.43 [ALRT]:general    3678490 - Calculate Point Normals
+ 4297.47 [ALRT]:general    3678490 - Calculate Texture Coordinates
+ 4297.48 [ALRT]:general    3678491 - Lookup Faces Per Node (again)
+ 4297.51 [ALRT]:general    3678491 - Average Edge Node Elevations
+ 4297.51 [ALRT]:general    3678491 - Calculate Face Normals
+ 4297.51 [ALRT]:general    3694872 - Lookup Faces Per Node (again)
+ 4297.53 [ALRT]:general    3678491 - Calculate Point Normals
+ 4297.54 [ALRT]:general    3694872 - Average Edge Node Elevations
+ 4297.54 [ALRT]:general    3694872 - Calculate Face Normals
+ 4297.56 [ALRT]:general    3694872 - Calculate Point Normals
+ 4297.58 [ALRT]:general    3678491 - Calculate Texture Coordinates
+ 4297.61 [ALRT]:general    3694872 - Calculate Texture Coordinates
+ 4297.87 [ALRT]:general    3678490 - Generate BTG File
+ 4298.23 [ALRT]:general    3678491 - Generate BTG File
+ 4298.28 [ALRT]:general    3694872 - Generate BTG File
+ 4300.24 [ALRT]:general    3678490 - Generate Custom Objects
+ 4301.92 [ALRT]:general    3678491 - Generate Custom Objects
+ 4303.84 [ALRT]:general    3694873 - Construct in e040n40/e045n42 tile 319 of 567 using thread 139726199084800
+ 4303.85 [ALRT]:general    3694874 - Construct in e040n40/e045n42 tile 320 of 567 using thread 139726207477504
+ 4303.86 [ALRT]:general    3694872 - Generate Custom Objects
+ 4303.93 [ALRT]:general    3694875 - Construct in e040n40/e045n42 tile 321 of 567 using thread 139726190692096
+ 4304.28 [ALRT]:general    3694874 - Lookup Faces Per Node (again)
+ 4304.30 [ALRT]:general    3694873 - Lookup Faces Per Node (again)
+ 4304.30 [ALRT]:general    3694875 - Lookup Faces Per Node (again)
+ 4304.31 [ALRT]:general    3694874 - Average Edge Node Elevations
+ 4304.31 [ALRT]:general    3694874 - Calculate Face Normals
+ 4304.33 [ALRT]:general    3694874 - Calculate Point Normals
+ 4304.33 [ALRT]:general    3694875 - Average Edge Node Elevations
+ 4304.33 [ALRT]:general    3694875 - Calculate Face Normals
+ 4304.33 [ALRT]:general    3694873 - Average Edge Node Elevations
+ 4304.34 [ALRT]:general    3694873 - Calculate Face Normals
+ 4304.35 [ALRT]:general    3694875 - Calculate Point Normals
+ 4304.36 [ALRT]:general    3694873 - Calculate Point Normals
+ 4304.39 [ALRT]:general    3694874 - Calculate Texture Coordinates
+ 4304.40 [ALRT]:general    3694875 - Calculate Texture Coordinates
+ 4304.42 [ALRT]:general    3694873 - Calculate Texture Coordinates
+ 4304.67 [ALRT]:general    3694875 - Generate BTG File
+ 4305.02 [ALRT]:general    3694874 - Generate BTG File
+ 4305.24 [ALRT]:general    3694873 - Generate BTG File
+ 4306.40 [ALRT]:general    3694875 - Generate Custom Objects
+ 4308.23 [ALRT]:general    3694874 - Generate Custom Objects
+ 4310.49 [ALRT]:general    3711256 - Construct in e040n40/e046n42 tile 322 of 567 using thread 139726190692096
+ 4310.51 [ALRT]:general    3711257 - Construct in e040n40/e046n42 tile 323 of 567 using thread 139726207477504
+ 4310.52 [ALRT]:general    3694873 - Generate Custom Objects
+ 4310.62 [ALRT]:general    3711258 - Construct in e040n40/e046n42 tile 324 of 567 using thread 139726199084800
+ 4310.72 [ALRT]:general    3711256 - Lookup Faces Per Node (again)
+ 4310.72 [ALRT]:general    3711257 - Lookup Faces Per Node (again)
+ 4310.73 [ALRT]:general    3711256 - Average Edge Node Elevations
+ 4310.73 [ALRT]:general    3711256 - Calculate Face Normals
+ 4310.74 [ALRT]:general    3711256 - Calculate Point Normals
+ 4310.74 [ALRT]:general    3711257 - Average Edge Node Elevations
+ 4310.74 [ALRT]:general    3711257 - Calculate Face Normals
+ 4310.75 [ALRT]:general    3711257 - Calculate Point Normals
+ 4310.77 [ALRT]:general    3711256 - Calculate Texture Coordinates
+ 4310.79 [ALRT]:general    3711257 - Calculate Texture Coordinates
+ 4310.86 [ALRT]:general    3711258 - Lookup Faces Per Node (again)
+ 4310.88 [ALRT]:general    3711258 - Average Edge Node Elevations
+ 4310.88 [ALRT]:general    3711258 - Calculate Face Normals
+ 4310.88 [ALRT]:general    3711256 - Generate BTG File
+ 4310.89 [ALRT]:general    3711258 - Calculate Point Normals
+ 4310.92 [ALRT]:general    3711257 - Generate BTG File
+ 4310.93 [ALRT]:general    3711258 - Calculate Texture Coordinates
+ 4311.09 [ALRT]:general    3711258 - Generate BTG File
+ 4311.77 [ALRT]:general    3711256 - Generate Custom Objects
+ 4312.81 [ALRT]:general    3711257 - Generate Custom Objects
+ 4313.53 [ALRT]:general    3612960 - Construct in e040n40/e040n42 tile 325 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3612961 - Construct in e040n40/e040n42 tile 326 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3612962 - Construct in e040n40/e040n42 tile 327 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3612963 - Construct in e040n40/e040n42 tile 328 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3629344 - Construct in e040n40/e041n42 tile 329 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3629345 - Construct in e040n40/e041n42 tile 330 of 567 using thread 139726190692096
+ 4313.53 [ALRT]:general    3629346 - Construct in e040n40/e041n42 tile 331 of 567 using thread 139726190692096
+ 4313.54 [ALRT]:general    3711258 - Generate Custom Objects
+ 4313.54 [ALRT]:general    3629347 - Construct in e040n40/e041n42 tile 332 of 567 using thread 139726207477504
+ 4313.57 [ALRT]:general    3645728 - Construct in e040n40/e042n42 tile 333 of 567 using thread 139726199084800
+ 4313.95 [ALRT]:general    3629346 - Lookup Faces Per Node (again)
+ 4313.97 [ALRT]:general    3645728 - Lookup Faces Per Node (again)
+ 4313.97 [ALRT]:general    3629347 - Lookup Faces Per Node (again)
+ 4313.98 [ALRT]:general    3629346 - Average Edge Node Elevations
+ 4313.98 [ALRT]:general    3629346 - Calculate Face Normals
+ 4314.00 [ALRT]:general    3629346 - Calculate Point Normals
+ 4314.00 [ALRT]:general    3645728 - Average Edge Node Elevations
+ 4314.00 [ALRT]:general    3645728 - Calculate Face Normals
+ 4314.01 [ALRT]:general    3629347 - Average Edge Node Elevations
+ 4314.01 [ALRT]:general    3629347 - Calculate Face Normals
+ 4314.02 [ALRT]:general    3645728 - Calculate Point Normals
+ 4314.03 [ALRT]:general    3629347 - Calculate Point Normals
+ 4314.04 [ALRT]:general    3629346 - Calculate Texture Coordinates
+ 4314.08 [ALRT]:general    3645728 - Calculate Texture Coordinates
+ 4314.08 [ALRT]:general    3629347 - Calculate Texture Coordinates
+ 4314.77 [ALRT]:general    3629346 - Generate BTG File
+ 4314.92 [ALRT]:general    3629347 - Generate BTG File
+ 4314.96 [ALRT]:general    3645728 - Generate BTG File
+ 4317.46 [ALRT]:general    3629346 - Generate Custom Objects
+ 4319.30 [ALRT]:general    3629347 - Generate Custom Objects
+ 4321.15 [ALRT]:general    3645728 - Generate Custom Objects
+ 4321.17 [ALRT]:general    3645729 - Construct in e040n40/e042n42 tile 334 of 567 using thread 139726190692096
+ 4321.17 [ALRT]:general    3645730 - Construct in e040n40/e042n42 tile 335 of 567 using thread 139726207477504
+ 4321.22 [ALRT]:general    3645731 - Construct in e040n40/e042n42 tile 336 of 567 using thread 139726199084800
+ 4321.40 [ALRT]:general    3645729 - Lookup Faces Per Node (again)
+ 4321.43 [ALRT]:general    3645729 - Average Edge Node Elevations
+ 4321.43 [ALRT]:general    3645729 - Calculate Face Normals
+ 4321.44 [ALRT]:general    3645729 - Calculate Point Normals
+ 4321.48 [ALRT]:general    3645729 - Calculate Texture Coordinates
+ 4321.50 [ALRT]:general    3645731 - Lookup Faces Per Node (again)
+ 4321.52 [ALRT]:general    3645731 - Average Edge Node Elevations
+ 4321.52 [ALRT]:general    3645731 - Calculate Face Normals
+ 4321.53 [ALRT]:general    3645730 - Lookup Faces Per Node (again)
+ 4321.54 [ALRT]:general    3645731 - Calculate Point Normals
+ 4321.55 [ALRT]:general    3645730 - Average Edge Node Elevations
+ 4321.55 [ALRT]:general    3645730 - Calculate Face Normals
+ 4321.56 [ALRT]:general    3645730 - Calculate Point Normals
+ 4321.59 [ALRT]:general    3645731 - Calculate Texture Coordinates
+ 4321.60 [ALRT]:general    3645730 - Calculate Texture Coordinates
+ 4321.68 [ALRT]:general    3645729 - Generate BTG File
+ 4321.96 [ALRT]:general    3645730 - Generate BTG File
+ 4321.96 [ALRT]:general    3645731 - Generate BTG File
+ 4323.28 [ALRT]:general    3645729 - Generate Custom Objects
+ 4324.68 [ALRT]:general    3645730 - Generate Custom Objects
+ 4326.15 [ALRT]:general    3662112 - Construct in e040n40/e043n42 tile 337 of 567 using thread 139726190692096
+ 4326.17 [ALRT]:general    3662113 - Construct in e040n40/e043n42 tile 338 of 567 using thread 139726207477504
+ 4326.18 [ALRT]:general    3645731 - Generate Custom Objects
+ 4326.23 [ALRT]:general    3662114 - Construct in e040n40/e043n42 tile 339 of 567 using thread 139726199084800
+ 4326.41 [ALRT]:general    3662112 - Lookup Faces Per Node (again)
+ 4326.43 [ALRT]:general    3662112 - Average Edge Node Elevations
+ 4326.44 [ALRT]:general    3662112 - Calculate Face Normals
+ 4326.45 [ALRT]:general    3662112 - Calculate Point Normals
+ 4326.49 [ALRT]:general    3662112 - Calculate Texture Coordinates
+ 4326.57 [ALRT]:general    3662113 - Lookup Faces Per Node (again)
+ 4326.58 [ALRT]:general    3662114 - Lookup Faces Per Node (again)
+ 4326.59 [ALRT]:general    3662113 - Average Edge Node Elevations
+ 4326.59 [ALRT]:general    3662113 - Calculate Face Normals
+ 4326.60 [ALRT]:general    3662114 - Average Edge Node Elevations
+ 4326.60 [ALRT]:general    3662113 - Calculate Point Normals
+ 4326.60 [ALRT]:general    3662114 - Calculate Face Normals
+ 4326.62 [ALRT]:general    3662114 - Calculate Point Normals
+ 4326.65 [ALRT]:general    3662113 - Calculate Texture Coordinates
+ 4326.66 [ALRT]:general    3662114 - Calculate Texture Coordinates
+ 4326.72 [ALRT]:general    3662112 - Generate BTG File
+ 4326.94 [ALRT]:general    3662113 - Generate BTG File
+ 4327.03 [ALRT]:general    3662114 - Generate BTG File
+ 4328.73 [ALRT]:general    3662112 - Generate Custom Objects
+ 4330.00 [ALRT]:general    3662113 - Generate Custom Objects
+ 4331.54 [ALRT]:general    3662114 - Generate Custom Objects
+ 4331.59 [ALRT]:general    3662115 - Construct in e040n40/e043n42 tile 340 of 567 using thread 139726190692096
+ 4331.59 [ALRT]:general    3678496 - Construct in e040n40/e044n42 tile 341 of 567 using thread 139726207477504
+ 4331.61 [ALRT]:general    3678497 - Construct in e040n40/e044n42 tile 342 of 567 using thread 139726199084800
+ 4331.81 [ALRT]:general    3662115 - Lookup Faces Per Node (again)
+ 4331.83 [ALRT]:general    3662115 - Average Edge Node Elevations
+ 4331.83 [ALRT]:general    3662115 - Calculate Face Normals
+ 4331.85 [ALRT]:general    3662115 - Calculate Point Normals
+ 4331.89 [ALRT]:general    3662115 - Calculate Texture Coordinates
+ 4331.98 [ALRT]:general    3678496 - Lookup Faces Per Node (again)
+ 4332.02 [ALRT]:general    3678496 - Average Edge Node Elevations
+ 4332.02 [ALRT]:general    3678496 - Calculate Face Normals
+ 4332.04 [ALRT]:general    3678496 - Calculate Point Normals
+ 4332.09 [ALRT]:general    3662115 - Generate BTG File
+ 4332.09 [ALRT]:general    3678496 - Calculate Texture Coordinates
+ 4332.13 [ALRT]:general    3678497 - Lookup Faces Per Node (again)
+ 4332.16 [ALRT]:general    3678497 - Average Edge Node Elevations
+ 4332.16 [ALRT]:general    3678497 - Calculate Face Normals
+ 4332.19 [ALRT]:general    3678497 - Calculate Point Normals
+ 4332.24 [ALRT]:general    3678497 - Calculate Texture Coordinates
+ 4332.43 [ALRT]:general    3678496 - Generate BTG File
+ 4332.70 [ALRT]:general    3678497 - Generate BTG File
+ 4333.96 [ALRT]:general    3662115 - Generate Custom Objects
+ 4335.78 [ALRT]:general    3678496 - Generate Custom Objects
+ 4337.81 [ALRT]:general    3678498 - Construct in e040n40/e044n42 tile 343 of 567 using thread 139726190692096
+ 4337.83 [ALRT]:general    3678499 - Construct in e040n40/e044n42 tile 344 of 567 using thread 139726207477504
+ 4337.86 [ALRT]:general    3678497 - Generate Custom Objects
+ 4337.95 [ALRT]:general    3694880 - Construct in e040n40/e045n42 tile 345 of 567 using thread 139726199084800
+ 4338.30 [ALRT]:general    3678499 - Lookup Faces Per Node (again)
+ 4338.34 [ALRT]:general    3678499 - Average Edge Node Elevations
+ 4338.34 [ALRT]:general    3678499 - Calculate Face Normals
+ 4338.37 [ALRT]:general    3678499 - Calculate Point Normals
+ 4338.42 [ALRT]:general    3678498 - Lookup Faces Per Node (again)
+ 4338.42 [ALRT]:general    3678499 - Calculate Texture Coordinates
+ 4338.46 [ALRT]:general    3678498 - Average Edge Node Elevations
+ 4338.46 [ALRT]:general    3678498 - Calculate Face Normals
+ 4338.48 [ALRT]:general    3694880 - Lookup Faces Per Node (again)
+ 4338.50 [ALRT]:general    3678498 - Calculate Point Normals
+ 4338.52 [ALRT]:general    3694880 - Average Edge Node Elevations
+ 4338.52 [ALRT]:general    3694880 - Calculate Face Normals
+ 4338.55 [ALRT]:general    3694880 - Calculate Point Normals
+ 4338.56 [ALRT]:general    3678498 - Calculate Texture Coordinates
+ 4338.60 [ALRT]:general    3694880 - Calculate Texture Coordinates
+ 4339.42 [ALRT]:general    3678499 - Generate BTG File
+ 4339.68 [ALRT]:general    3694880 - Generate BTG File
+ 4339.79 [ALRT]:general    3678498 - Generate BTG File
+ 4342.79 [ALRT]:general    3678499 - Generate Custom Objects
+ 4344.95 [ALRT]:general    3694880 - Generate Custom Objects
+ 4347.37 [ALRT]:general    3678498 - Generate Custom Objects
+ 4347.37 [ALRT]:general    3694881 - Construct in e040n40/e045n42 tile 346 of 567 using thread 139726199084800
+ 4347.38 [ALRT]:general    3694882 - Construct in e040n40/e045n42 tile 347 of 567 using thread 139726207477504
+ 4347.46 [ALRT]:general    3694883 - Construct in e040n40/e045n42 tile 348 of 567 using thread 139726190692096
+ 4347.78 [ALRT]:general    3694882 - Lookup Faces Per Node (again)
+ 4347.78 [ALRT]:general    3694881 - Lookup Faces Per Node (again)
+ 4347.81 [ALRT]:general    3694882 - Average Edge Node Elevations
+ 4347.81 [ALRT]:general    3694882 - Calculate Face Normals
+ 4347.81 [ALRT]:general    3694881 - Average Edge Node Elevations
+ 4347.81 [ALRT]:general    3694881 - Calculate Face Normals
+ 4347.82 [ALRT]:general    3694882 - Calculate Point Normals
+ 4347.83 [ALRT]:general    3694881 - Calculate Point Normals
+ 4347.83 [ALRT]:general    3694883 - Lookup Faces Per Node (again)
+ 4347.86 [ALRT]:general    3694883 - Average Edge Node Elevations
+ 4347.86 [ALRT]:general    3694883 - Calculate Face Normals
+ 4347.88 [ALRT]:general    3694882 - Calculate Texture Coordinates
+ 4347.88 [ALRT]:general    3694881 - Calculate Texture Coordinates
+ 4347.88 [ALRT]:general    3694883 - Calculate Point Normals
+ 4347.94 [ALRT]:general    3694883 - Calculate Texture Coordinates
+ 4348.13 [ALRT]:general    3694882 - Generate BTG File
+ 4348.18 [ALRT]:general    3694883 - Generate BTG File
+ 4348.22 [ALRT]:general    3694881 - Generate BTG File
+ 4349.79 [ALRT]:general    3694882 - Generate Custom Objects
+ 4351.68 [ALRT]:general    3694883 - Generate Custom Objects
+ 4353.44 [ALRT]:general    3711264 - Construct in e040n40/e046n42 tile 349 of 567 using thread 139726207477504
+ 4353.44 [ALRT]:general    3711265 - Construct in e040n40/e046n42 tile 350 of 567 using thread 139726190692096
+ 4353.45 [ALRT]:general    3694881 - Generate Custom Objects
+ 4353.52 [ALRT]:general    3711266 - Construct in e040n40/e046n42 tile 351 of 567 using thread 139726199084800
+ 4353.71 [ALRT]:general    3711264 - Lookup Faces Per Node (again)
+ 4353.73 [ALRT]:general    3711264 - Average Edge Node Elevations
+ 4353.73 [ALRT]:general    3711264 - Calculate Face Normals
+ 4353.74 [ALRT]:general    3711264 - Calculate Point Normals
+ 4353.75 [ALRT]:general    3711266 - Lookup Faces Per Node (again)
+ 4353.77 [ALRT]:general    3711264 - Calculate Texture Coordinates
+ 4353.77 [ALRT]:general    3711266 - Average Edge Node Elevations
+ 4353.77 [ALRT]:general    3711266 - Calculate Face Normals
+ 4353.77 [ALRT]:general    3711265 - Lookup Faces Per Node (again)
+ 4353.78 [ALRT]:general    3711266 - Calculate Point Normals
+ 4353.80 [ALRT]:general    3711265 - Average Edge Node Elevations
+ 4353.80 [ALRT]:general    3711265 - Calculate Face Normals
+ 4353.82 [ALRT]:general    3711266 - Calculate Texture Coordinates
+ 4353.82 [ALRT]:general    3711265 - Calculate Point Normals
+ 4353.86 [ALRT]:general    3711265 - Calculate Texture Coordinates
+ 4353.91 [ALRT]:general    3711264 - Generate BTG File
+ 4353.98 [ALRT]:general    3711266 - Generate BTG File
+ 4354.08 [ALRT]:general    3711265 - Generate BTG File
+ 4354.88 [ALRT]:general    3711264 - Generate Custom Objects
+ 4355.96 [ALRT]:general    3711266 - Generate Custom Objects
+ 4357.73 [ALRT]:general    3612968 - Construct in e040n40/e040n42 tile 352 of 567 using thread 139726207477504
+ 4357.73 [ALRT]:general    3612969 - Construct in e040n40/e040n42 tile 353 of 567 using thread 139726207477504
+ 4357.73 [ALRT]:general    3612970 - Construct in e040n40/e040n42 tile 354 of 567 using thread 139726207477504
+ 4357.73 [ALRT]:general    3612971 - Construct in e040n40/e040n42 tile 355 of 567 using thread 139726207477504
+ 4357.73 [ALRT]:general    3629352 - Construct in e040n40/e041n42 tile 356 of 567 using thread 139726207477504
+ 4357.73 [ALRT]:general    3629353 - Construct in e040n40/e041n42 tile 357 of 567 using thread 139726207477504
+ 4357.74 [ALRT]:general    3629354 - Construct in e040n40/e041n42 tile 358 of 567 using thread 139726199084800
+ 4357.75 [ALRT]:general    3711265 - Generate Custom Objects
+ 4357.81 [ALRT]:general    3629355 - Construct in e040n40/e041n42 tile 359 of 567 using thread 139726190692096
+ 4357.90 [ALRT]:general    3629353 - Lookup Faces Per Node (again)
+ 4357.92 [ALRT]:general    3629353 - Average Edge Node Elevations
+ 4357.92 [ALRT]:general    3629353 - Calculate Face Normals
+ 4357.93 [ALRT]:general    3629353 - Calculate Point Normals
+ 4357.94 [ALRT]:general    3629353 - Calculate Texture Coordinates
+ 4358.09 [ALRT]:general    3629355 - Lookup Faces Per Node (again)
+ 4358.10 [ALRT]:general    3629353 - Generate BTG File
+ 4358.11 [ALRT]:general    3629355 - Average Edge Node Elevations
+ 4358.11 [ALRT]:general    3629355 - Calculate Face Normals
+ 4358.13 [ALRT]:general    3629355 - Calculate Point Normals
+ 4358.17 [ALRT]:general    3629355 - Calculate Texture Coordinates
+ 4358.21 [ALRT]:general    3629354 - Lookup Faces Per Node (again)
+ 4358.24 [ALRT]:general    3629354 - Average Edge Node Elevations
+ 4358.24 [ALRT]:general    3629354 - Calculate Face Normals
+ 4358.27 [ALRT]:general    3629354 - Calculate Point Normals
+ 4358.35 [ALRT]:general    3629354 - Calculate Texture Coordinates
+ 4358.41 [ALRT]:general    3629355 - Generate BTG File
+ 4358.74 [ALRT]:general    3629354 - Generate BTG File
+ 4359.01 [ALRT]:general    3629353 - Generate Custom Objects
+ 4360.52 [ALRT]:general    3645736 - Construct in e040n40/e042n42 tile 360 of 567 using thread 139726207477504
+ 4360.54 [ALRT]:general    3629355 - Generate Custom Objects
+ 4360.80 [ALRT]:general    3645736 - Lookup Faces Per Node (again)
+ 4360.82 [ALRT]:general    3645736 - Average Edge Node Elevations
+ 4360.82 [ALRT]:general    3645736 - Calculate Face Normals
+ 4360.84 [ALRT]:general    3645736 - Calculate Point Normals
+ 4360.88 [ALRT]:general    3645736 - Calculate Texture Coordinates
+ 4361.16 [ALRT]:general    3645736 - Generate BTG File
+ 4362.68 [ALRT]:general    3645737 - Construct in e040n40/e042n42 tile 361 of 567 using thread 139726190692096
+ 4362.72 [ALRT]:general    3629354 - Generate Custom Objects
+ 4362.84 [ALRT]:general    3645737 - Lookup Faces Per Node (again)
+ 4362.85 [ALRT]:general    3645737 - Average Edge Node Elevations
+ 4362.85 [ALRT]:general    3645737 - Calculate Face Normals
+ 4362.86 [ALRT]:general    3645737 - Calculate Point Normals
+ 4362.89 [ALRT]:general    3645737 - Calculate Texture Coordinates
+ 4363.03 [ALRT]:general    3645737 - Generate BTG File
+ 4364.47 [ALRT]:general    3645736 - Generate Custom Objects
+ 4364.49 [ALRT]:general    3645738 - Construct in e040n40/e042n42 tile 362 of 567 using thread 139726199084800
+ 4364.69 [ALRT]:general    3645738 - Lookup Faces Per Node (again)
+ 4364.70 [ALRT]:general    3645738 - Average Edge Node Elevations
+ 4364.70 [ALRT]:general    3645738 - Calculate Face Normals
+ 4364.71 [ALRT]:general    3645738 - Calculate Point Normals
+ 4364.74 [ALRT]:general    3645738 - Calculate Texture Coordinates
+ 4364.87 [ALRT]:general    3645738 - Generate BTG File
+ 4365.12 [ALRT]:general    3645737 - Generate Custom Objects
+ 4365.15 [ALRT]:general    3645739 - Construct in e040n40/e042n42 tile 363 of 567 using thread 139726207477504
+ 4365.16 [ALRT]:general    3662120 - Construct in e040n40/e043n42 tile 364 of 567 using thread 139726190692096
+ 4365.52 [ALRT]:general    3645739 - Lookup Faces Per Node (again)
+free(): invalid size
+Aborted (core dumped)
